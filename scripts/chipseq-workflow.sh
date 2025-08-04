@@ -58,7 +58,7 @@ while read -r SRA; do
     # 6 clean up
     rm "${DATA_DIR}/${SRA}.sam" 
     
-    # Only call peaks for non-control samples
+    # call peaks
     if [[ "$SRA" != "$Input_control" ]]; then
         echo "Calling peaks for $SRA using $Input_control as control..."
         macs2 callpeak \
@@ -72,3 +72,4 @@ while read -r SRA; do
 done < "${DATA_DIR}/sra_ids.txt"
 
 echo "Workflow completed successfully!"
+

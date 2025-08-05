@@ -9,8 +9,8 @@ https://divingintogeneticsandgenomics.com/files/book_chapters/biostar_handbook_c
 Public data set from two papers were used in this analysis:
 
 - Genome-wide association between YAP/TAZ/TEAD and AP-1 at enhancers drives oncogenic growth.
-	Francesca Zanconato et.al. 2014. Nature Cell Biology.Transcription factor YAP1 ChIP-seq
-	data in MDA-MB-231 breast cancer cells from this paper will be used.
+	Francesca Zanconato et.al. 2014. Nature Cell Biology.
+	Transcription factor YAP1 ChIP-seq data in MDA-MB-231 breast cancer cells from this paper will be used.
 
 -	Nucleosome positioning and histone modifications define relationships between regulatory elements
 	and nearby gene expression in breast epithelial cells. Suhn Kyong Rhie et.al. 2014. BMC Genomics.

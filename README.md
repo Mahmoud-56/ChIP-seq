@@ -2,7 +2,6 @@
 
 This is a ChIP-seq processing pipeline, written in bash, that includes the retrieval, quality control, alignment, and peak calling of ChIP-seq datasets using public SRA IDs. The analysis was adopted from the Biostar Handbook, ChIP-seq tutorial, written by Ming Tang. 
 
-https://divingintogeneticsandgenomics.com/files/book_chapters/biostar_handbook_chapter.pdfChIP-seq 
 
 ## Data Sets 
 
